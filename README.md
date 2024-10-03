@@ -10,4 +10,4 @@
 * Release ![Releases
 ![GitHub Workflow Status (branch)](https://img.shields.io/github/actions/workflow/status/ghost1100/sem/main.yml?branch=Master)
 
-* Develop Branch Status ![GitHub Workflow Status (branch)](https://img.shields.io/github/actions/workflow/status/ghost1100/sem/main.yml?branch=<Master)
+* Master Branch Status ![GitHub Workflow Status (branch)](https://img.shields.io/github/actions/workflow/status/ghost1100/sem/main.yml?branch=<Master)
